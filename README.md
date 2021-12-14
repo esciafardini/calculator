@@ -7,4 +7,4 @@ Implement calculator functionality with....
 3. Re-Frame 
 
 
-[Ooooh, Pretty CSS](https://esciafardini.github.io/calculator/)
+[neat CSS](https://esciafardini.github.io/calculator/)
